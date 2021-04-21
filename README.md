@@ -9,7 +9,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Problem">Problem</a></li>
       </ul>
     </li>
     <li>
@@ -28,6 +28,8 @@
   </ol>
 </details>
 <!-- ABOUT THE PROJECT -->
+## about-the-project
+
 ## Problem
 
 The problem of churn is a problem when a number of individuals move out of a collective group. It is one of the main problems that determine the steady-state level of customers in any type of business.
