@@ -1,4 +1,3 @@
-[![Build Status](https://api.travis-ci.com/python/mypy.svg?branch=master)](https://travis-ci.com/python/mypy)
 
 # Customer Churn Prediction Using Machine Learning
 
@@ -17,16 +16,16 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#Pre-requisites">Pre-requisites</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#Packages">Packages</a></li>
+    <!--<li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+<li><a href="#acknowledgements">Acknowledgements</a></li>-->
   </ol>
 </details>
 
@@ -47,6 +46,8 @@ Descriptive task:
 
 ## Getting started
 
+### Pre-requisities
+
 To clone and run this application, you'll need [Git](https://git-scm.com) and  [Jupyter notebook](https://test-jupyter.readthedocs.io/en/latest/install.html) installed on your computer. From your command line:
 
 ```bash
@@ -56,6 +57,15 @@ $ git clone git@github.com:pgupta119/Churn-Problem.git
 # Go into the repository
 $ cd  churn-Problem
 ```
+
+##  Packages
+* [numpy](https://numpy.org/)
+* [pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+* [Seaborn](https://seaborn.pydata.org/)
+* [scikit-learn](https://scikit-learn.org/stable/)
+
+
 
 
 
