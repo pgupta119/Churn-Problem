@@ -17,7 +17,7 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#Pre-requisites">Pre-requisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <!--<li><a href="#installation">Installation</a></li>-->
       </ul>
     </li>
     <li><a href="#Packages">Packages</a></li>
@@ -56,6 +56,8 @@ $ git clone git@github.com:pgupta119/Churn-Problem.git
 
 # Go into the repository
 $ cd  churn-Problem
+
+# run Churn problem.ipynb file
 ```
 
 ##  Packages
