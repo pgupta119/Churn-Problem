@@ -7,7 +7,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#About-the-project">About The Project</a>
       <ul>
         <li><a href="#Problem">Problem</a></li>
       </ul>
@@ -29,7 +29,7 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## about-the-project
+## About-the-project
 
 ## Problem
 
