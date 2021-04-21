@@ -47,6 +47,20 @@ Descriptive task:
 
 ## Getting started
 
+To clone and run this application, you'll need [Git](https://git-scm.com) and  [Jupyter notebook](https://test-jupyter.readthedocs.io/en/latest/install.html) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone git@github.com:pgupta119/Churn-Problem.git
+
+# Go into the repository
+$ cd  churn-Problem
+```
+
+
+
+
+
 
 
 
